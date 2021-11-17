@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "cfbc11b0-c16b-a827-c738-dc358700fa62"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Popular Culture and Narrative: Use and Abuse of the Fairy Tale",
+  "course_description": "This course takes a deep look at a big subject. We ask where Fairy Tales come from and we examine the structure of Fairy Tales. We'll also look at how Fairy Tales are conditioned by oral transmission and inherited story-telling techniques.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "CMS.920",
+  "primary_course_number": "21L.430",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
